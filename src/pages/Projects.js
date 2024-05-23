@@ -39,7 +39,7 @@ export default function Projects() {
                 <Box mt={"40px"}>
                     <Text fontSize="25px" as='u' >NohPT</Text>
                     <Text fontSize="17px" mt="8px">
-                        Brings novels to life through leveraging generative AI to produce image visualizations
+                        Brings novels to life by leveraging generative AI to produce image visualizations
                         and audio narration of books inputted by the user.
                     </Text>
 

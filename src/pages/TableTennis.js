@@ -36,12 +36,14 @@ export default function TableTennis() {
                 </Flex>
 
                 <Flex direction={{ base: "column", md: "row" }} align="center" justify="center">
-                <Box mt={"70px"} align="center" justify="center">
+                <Box mt={"60px"} align="center" justify="center">
                     <Text fontSize="17.5px">
                         Check out my page dedicated to table tennis!
                         <br></br> 
                         I've always loved table tennis, but I started playing more seriously around the start of 
-                        high school, and it's been a journey ever since!
+                        high school, and it's been a journey ever since.
+                        <br></br>
+                        I am currently on Penn's Club Table Tennis Team and am always looking to play!
                     </Text>
                 </Box>
                 </Flex>
@@ -102,36 +104,42 @@ export default function TableTennis() {
                 
                 </Flex>
 
-                <Flex direction={{ base: "column", md: "row" }} align="center" justify="center" mt={15} mb={5}>
+                <Box fontSize={"35px"} textAlign={"center"} mt={"50px"}>
+                    <Text fontWeight="bold">Videos</Text>
+                </Box>
 
-                    <Box mt="20px" mb="20px">
+                <Flex direction={{ base: "column", md: "row" }} align="center" justify="center" mb={5}>
+
+                    <Box mt="20px" mb="20px" mr={"40px"}>
                         <iframe
                         src="https://drive.google.com/file/d/1BYOPPnY4AVjQJ_3yVpAHNVfuT1rGyKMJ/preview"
-                        width="640"
-                        height="480"
+                        width="500"
+                        height="300"
                         allow="autoplay"
                         style={{ border: 'none' }}
                         title="Pong 1"
+                        allowfullscreen="allowfullscreen"
                         ></iframe>
                     </Box>
 
                     <Box mt="20px" mb="20px"> 
 
                         <iframe
-                        src="https://drive.google.com/file/d/1BYOPPnY4AVjQJ_3yVpAHNVfuT1rGyKMJ/preview"
-                        width="640"
-                        height="480"
+                        src="https://drive.google.com/file/d/1tquLfi3Eh3o6W4H3HbrTwuzbYccMMC7e/preview"
+                        width="500"
+                        height="300"
                         allow="autoplay"
                         style={{ border: 'none' }}
                         title="Pong 2"
+                        allowfullscreen="allowfullscreen"
                         ></iframe>
 
                     </Box>
 
                 </Flex>
 
-                <Box>
-                    <Text>More to Come!</Text>
+                <Box fontSize={"20px"} mb={"20px"} textAlign={"center"}>
+                    <Text fontWeight="bold">More to Come!</Text>
                 </Box>
 
             </Box>

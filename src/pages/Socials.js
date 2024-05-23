@@ -12,7 +12,7 @@ export default function Socials() {
                         <Image src="/github-mark.png" alt="GitHub" boxSize="100px" objectFit="contain"/>
                     </Link>
                     <Link href="mailto:andrewpp@seas.upenn.edu">
-                        <Image src="/gmail.png" alt="Gmail" boxSize="100px" objectFit="contain"/>
+                        <Image src="/gmail.png" alt="Gmail" boxSize="100px" objectFit="contain" ml={"8px"}/>
                     </Link>
                 </Flex>
             </Box>
