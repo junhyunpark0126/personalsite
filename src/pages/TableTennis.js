@@ -24,7 +24,7 @@ export default function TableTennis() {
                     />
                     </Box>
 
-                    <Box display="flex" justifyContent="center" alignItems="center" boxSize="300px" mt={10} ml={"150px"} css={{animation: `${floatInAnimation} 0.75s ease-out forwards`}}>
+                    <Box display="flex" justifyContent="center" alignItems="center" boxSize="270px" mt={10} ml={"150px"} css={{animation: `${floatInAnimation} 0.75s ease-out forwards`}}>
                     <Image
                         src="/pennpingpong.png"
                         borderRadius="15px"
