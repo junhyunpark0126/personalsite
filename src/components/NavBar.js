@@ -220,8 +220,8 @@ const NAV_ITEMS = [
     href: '/projects',
   },
   {
-    label: 'Ping Pong',
-    href: '/pingpong',
+    label: 'Table Tennis',
+    href: '/tabletennis',
   },
   {
     label: 'Socials',
