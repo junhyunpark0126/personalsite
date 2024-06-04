@@ -63,7 +63,9 @@ export default function HomePage() {
 
                   <br /> <br />
 
-                  My experiences include working as a ___ intern at Tyson Foods, where I ____. I've also helped out with bone
+                  My experiences include working as an ML + SWE intern at Tyson Foods, where I train, fine-tune, and 
+                  deploy voice cloning models onto the cloud, and then work with full-stack to integrate a voice cloning TTS
+                  feature into Tyson's internal ChatGPT tool. I've also helped out with bone
                   metabolism disorder research when I worked for Penn Medicine as a data analyst and machine learning intern. 
 
                   <br /> <br />
