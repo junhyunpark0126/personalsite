@@ -13,6 +13,31 @@ export default function Projects() {
                 </Box>
 
                 <Box mt={"40px"}>
+                    <Text fontSize="25px" as='u' >InnerView</Text>
+                    <Text fontSize="17px" mt="8px">
+                        Interview preparation platform that provides users with personalized feedback and suggestions.
+                    </Text>
+
+                    <Box display="flex" justifyContent="left" alignItems="center" mt={3} mb={3}>
+                        <a href="https://innerview-750dc0fd1bd8.herokuapp.com/userDashBoard" target="_blank" rel="noopener noreferrer">
+                            <Image
+                                href="https://innerview-750dc0fd1bd8.herokuapp.com/userDashBoard"
+                                src="/innerview.png"
+                                alt="InnerView"
+                                objectFit="cover"
+                                width="35%"
+                                height="35%"
+                                border="1px"
+                            />
+                        </a>
+                    </Box>
+
+                    <Text fontSize="17px" mt="8px">
+                        Technologies Used: Node.js, React, Firebase, Gemini API
+                    </Text>
+                </Box>
+
+                <Box mt={"40px"}>
                     <Text fontSize="25px" as='u' >weasel</Text>
                     <Text fontSize="17px" mt="8px">
                         Web application that enables users to discover new artists and genres based on an artist's
