@@ -19,9 +19,9 @@ export default function Projects() {
                     </Text>
 
                     <Box display="flex" justifyContent="left" alignItems="center" mt={3} mb={3}>
-                        <a href="https://innerview-750dc0fd1bd8.herokuapp.com/userDashBoard" target="_blank" rel="noopener noreferrer">
+                        <a href="https://innerview-750dc0fd1bd8.herokuapp.com" target="_blank" rel="noopener noreferrer">
                             <Image
-                                href="https://innerview-750dc0fd1bd8.herokuapp.com/userDashBoard"
+                                href="https://innerview-750dc0fd1bd8.herokuapp.com"
                                 src="/innerview.png"
                                 alt="InnerView"
                                 objectFit="cover"
