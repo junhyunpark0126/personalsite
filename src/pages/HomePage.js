@@ -63,8 +63,9 @@ export default function HomePage() {
 
                   <br /> <br />
 
-                  My experiences include working as an ML + SWE intern at Tyson Foods, where I train, fine-tune, and 
-                  deploy voice cloning models onto the cloud, and then work with full-stack to integrate a voice cloning TTS
+                  My experiences include working as a full-stack developer intern for Capital One's Velocity Black mobile app. I was also 
+                  an ML + SWE intern at Tyson Foods, where I trained, fine-tuned, and 
+                  deployed voice cloning models onto the cloud, and then worked with full-stack to integrate a voice cloning TTS
                   feature into Tyson's internal ChatGPT tool. I've also helped out with bone
                   metabolism disorder research when I worked for Penn Medicine as a data analyst and machine learning intern. 
 
